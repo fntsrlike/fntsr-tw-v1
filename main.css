@@ -1,0 +1,38 @@
+body {
+  padding-top: 20px;
+  background: url('./bg/textured_paper/textured_paper.png');
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+p {
+  margin-bottom: 1.5em;
+}
+
+a {
+  color: darkred;
+  text-decoration: none;
+}
+
+article {
+  background: rgba(255,255,255,0.5);
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  box-shadow: silver 0 0 10px;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+
+.avatar {
+  float: right;
+  margin: 1px;
+  border: silver 1px solid;
+  border-radius: 3px;
+  padding: 1px;
+  width: 100px;
+  height: 100px;
+}
