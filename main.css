@@ -22,6 +22,26 @@ article {
   box-shadow: silver 0 0 10px;
 }
 
+h2 {
+  font-size: 14px;
+}
+
+.slogan {
+  margin: 0 auto;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.divider {
+  background: rgba(255,255,255,0.5);
+  margin: 20px auto;
+  padding: 10px 20px;
+  box-shadow: silver 0 0 10px;
+  text-align: center;
+  font-weight: bold;
+}
+
 .container {
   max-width: 500px;
   margin: auto;
