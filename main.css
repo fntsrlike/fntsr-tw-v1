@@ -30,9 +30,9 @@ article {
 .avatar {
   float: right;
   margin: 1px;
-  border: silver 1px solid;
-  border-radius: 3px;
   padding: 1px;
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
+  border-radius: 45px 45px;
+  overflow: hidden;
 }
