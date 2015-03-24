@@ -64,3 +64,13 @@ h2 {
   overflow: hidden;
 }
 
+.screenshot {
+  width: 150px;
+  height: 112.5px;
+  margin: 0 2px;
+}
+
+.gallery {
+  width: 627px;
+  margin: 0 auto;
+}
