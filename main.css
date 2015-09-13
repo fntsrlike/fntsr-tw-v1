@@ -74,3 +74,15 @@ h2 {
   width: 627px;
   margin: 0 auto;
 }
+
+.slide-icon {
+  color: rgb(6, 122, 182);
+}
+
+.video-icon {
+  color: rgb(194, 25, 30);
+}
+
+.ticket-icon {
+  color: rgb(100, 192, 37);
+}
